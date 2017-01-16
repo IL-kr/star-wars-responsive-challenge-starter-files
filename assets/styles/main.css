@@ -1,0 +1,69 @@
+body{
+	font-family: "Roboto", sans-serif;
+  	color: #252525;
+  	position: relative;
+  	background-color: #fff;
+  	height: 100vh;
+
+}
+
+.ray{ background: url(/assets/images/rey_square.png) no-repeat; }
+.finn{ background: url(/assets/images/finn_square.png) no-repeat; }
+.kylo{ background: url(/assets/images/kylo_square.png) no-repeat; }
+.poe{ background: url(/assets/images/poe_square.png) no-repeat; }
+.chewbacca{ background: url(/assets/images/chewbacca_square.png) no-repeat; }
+.yoda{ background: url(/assets/images/yoda_square.png) no-repeat; }
+
+.chrctr--img {
+    /*height: 440px;*/
+    padding-top: 100%;
+    background-size: contain;
+}
+
+.chrctr--card{
+	border: 1px solid #ddd;
+ 	margin-bottom: 20px;
+}
+
+.chrctr--name_title{
+	padding: 20px;
+}
+
+.chrctr--name{
+	margin: 0;
+}
+.chrctr--title{
+	margin: 0.5em 0;
+}
+
+.site_header{
+	background-color: #EFBC44;
+	margin-bottom: 50px;
+}
+
+.site_header--title, 
+.site_header--tagline{
+	margin: 0.4em 0;
+}
+
+.fa-heart{
+	color: red;
+}
+
+footer{
+	left: 0;
+	right: 0;
+	position: absolute;
+    text-align: center;
+    /*background: blue;*/
+}
+
+footer a{
+	text-decoration: none;
+	color: #ddd;
+	transition: 0.1s ease color;
+}
+
+footer a:hover{
+	color: #000;
+}
