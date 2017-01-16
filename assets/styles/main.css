@@ -7,12 +7,12 @@ body{
 
 }
 
-.ray{ background: url(/assets/images/rey_square.png) no-repeat; }
-.finn{ background: url(/assets/images/finn_square.png) no-repeat; }
-.kylo{ background: url(/assets/images/kylo_square.png) no-repeat; }
-.poe{ background: url(/assets/images/poe_square.png) no-repeat; }
-.chewbacca{ background: url(/assets/images/chewbacca_square.png) no-repeat; }
-.yoda{ background: url(/assets/images/yoda_square.png) no-repeat; }
+.ray{ background: url(http://bit.ly/2izb3xe) no-repeat; }
+.finn{ background: url(http://bit.ly/2jCfx8q) no-repeat; }
+.kylo{ background: url(http://bit.ly/2iEw1hF) no-repeat; }
+.poe{ background: url(http://bit.ly/2iusHqZ) no-repeat; }
+.chewbacca{ background: url(http://bit.ly/2iz7DL6) no-repeat; }
+.yoda{ background: url(http://bit.ly/2jR9r32) no-repeat; }
 
 .chrctr--img {
     /*height: 440px;*/

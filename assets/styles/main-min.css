@@ -7,8 +7,8 @@ body{
 
 }
 
-.ray{ background: url(/assets/images/rey_square.png) no-repeat; }
-.finn{ background: url(/assets/images/finn_square.png) no-repeat; }
+.ray{ background: url(http://lorempixel.com/output/business-q-c-440-440-9.jpg) no-repeat; }
+.finn{ background: url(/assets/images/chewbacca_weird.jpeg) no-repeat; }
 .kylo{ background: url(/assets/images/kylo_square.png) no-repeat; }
 .poe{ background: url(/assets/images/poe_square.png) no-repeat; }
 .chewbacca{ background: url(/assets/images/chewbacca_square.png) no-repeat; }
